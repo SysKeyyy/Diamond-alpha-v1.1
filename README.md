@@ -1,4 +1,4 @@
-# Diamond-alpha-v1.0.0
+# Diamond-alpha-v1.1
 A Early state development virtual assistant with gui
 feature video coming soon!
 
