@@ -21,4 +21,4 @@ python Diamond.py (windows)
 - minor bug fix
 - wake word
 - non gui version
-- compiled version
+- compiled exe
