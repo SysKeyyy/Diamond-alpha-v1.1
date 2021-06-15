@@ -59,7 +59,6 @@ protobuf==3.15.6
 publicip==1.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/cudden/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycparser==2.20
 pycryptodome==3.10.1
